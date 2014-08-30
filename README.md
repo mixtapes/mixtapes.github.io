@@ -42,6 +42,10 @@ Main areas of focus:
 * The biography of the artist whose tune is played right now (using the [Last.fm API](http://www.last.fm/api)?)
 * An embedded HTML5 player to listen to the mix straight from the same interface.
 
+## How to contribute
+
+Please see [this separate document](How-to-contribute.md) for the contribution guidelines. We are looking for deveopers, graphics/ux designers and broadcasters to help building this tool.
+
 ## Planned features
 
 * Support for Traktor DJ session broadcasting
