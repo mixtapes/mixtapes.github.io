@@ -1,4 +1,4 @@
-# Mixtapes
+# Contributing to Mixtapes
 
 Please read first what this project is about [here](README.md).
 

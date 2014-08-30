@@ -32,7 +32,7 @@ The client is an application that runs onyour computer that has Serato plugged i
 
 The client (mentioned above) is sending information to a JSON REST API backend that it authenticates with. Currently written in [Ruby On Rails](http://rubyonrails.org/) with a [MongoDB](http://www.mongodb.org/) back-end for storing playlists in easy JSON-style documents.
 
-#### The Mixtapes site
+#### The Mixtapes website
 
 The information is displayed on a web interface to listeners who can see your tracklists live. It updates live as you play.
 
@@ -55,7 +55,6 @@ Please see [this separate document](How-to-contribute.md) for the contribution g
 * QR code generation for scheduled sets to print on flyers so that people can follow tracklisting in clubbing environemtns
 
 ## Licensing
-
 
 The code and all its components will be made 100% open source and will be available on [Github](https://github.com/mixtapes). It will be using the [Attribution-NonCommercial-ShareAlike Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
