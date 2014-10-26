@@ -1,8 +1,6 @@
 # Welcome to *Mixtapes*
 
-Mixtapes is a live tracklisting service for DJs and their listeners. *NOTE: This is a work-in-progress document that is subject to change.*
-
-## What it is
+Mixtapes is a live tracklisting service for DJs who play live.
 
 Mixtapes brings back the essence of DJing by *promoting the music you care about*. Mixtapes hooks into [Serato Scratch Live](http://serato.com/scratchlive) and broadcasts the tracklisting in real time using a desktop client that quietly runs in the background.
 
@@ -12,8 +10,6 @@ Your listeners can follow your set via a web interface to get to know relevant i
 
 It's not a new [Mixcloud](http://mixcloud.com/) or [Soundcloud](www.soundcloud.com). We are not planning on hosting mixes, there are other much better and well thought out sites for this purpose. We might embed players from these sites but that's about it.
 
-## Target audience
-
 In 2014 we are living in times where producer DJs rule most of the world of DJing. This is really sad because regardless of how talented these people can be, their primary goal is to promote mainly their own work.
 
 Mixtapes is aimed at real DJs who like to educate their listeners, share information on tracks, releases that they care about. It's also aimed at listeners who are always hungry for discovering good music.
@@ -21,6 +17,8 @@ Mixtapes is aimed at real DJs who like to educate their listeners, share informa
 Having said that, Mixtapes could be considered a *music discovery service* (like Last.fm or Spotify) but with an important distinction: Most of these well known sites out there are based on automated algorithms. These can be quite useful however these are missing an important point: **Results of algorithm-generated playlists won't get you far**. Curation - and so DJing - implies a personal choice. Mixtapes empowers DJs and builds on top of exactly that.
 
 Are you a DJ? Have you found a new amazing producer? You’ll be able to share new discoveries with your followers in real time.
+
+---
 
 ## Getting in touch
 
@@ -76,5 +74,8 @@ Want to help me building this service? Cool! Please see [this separate document]
 ## Licensing
 
 The code and all its components will be made 100% open source and will be available on [Github](https://github.com/mixtapes). It will be using the [Attribution-NonCommercial-ShareAlike Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
+
 
 ![CC BY-NC-SA](./images/creative-commons-symbol.png "Attribution-NonCommercial-ShareAlike Creative Commons License")
